@@ -26,7 +26,7 @@ Essa **variação significativa** pode ser observada no gráfico abaixo:
 * Representa um aumento de **46 kt**, um crescimento **superior a 40%** de um ano para o outro.
 
 > **Diagnóstico do Modelo:**
-> O fator determinante apontado pelo modelo para essa variação foi a **queda acentuada na importação** do mesmo grupo de produtos no **Estado de São Paulo em Set/2025**, conforme ilustrado abaixo:
+> O fator determinante apontado pelo modelo para essa variação foi a **queda acentuada na importação** do mesmo grupo de produtos (SH2) no **Estado de São Paulo em Set/2025**, conforme ilustrado abaixo:
 
 
 ![Fator mais Importante](fator_mais_importante_fertilizantes1.png)  
